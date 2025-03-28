@@ -3,6 +3,16 @@
     "start": "servor --reload"
   },
   "dependencies": {
+    "crypto-js": "^4.2.0",
+    "dotenv": "^16.4.7",
+    "jsonwebtoken": "^9.0.2",
     "servor": "^4.0.2"
-  }
+  },
+  "name": "saving-the-token-and-setting-it-in-the-cookie---practice-assignment-2",
+  "version": "1.0.0",
+  "description": "- Learn to generate a JWT (JSON Web Token) with an expiration time to enhance the security of your full-stack applications.",
+  "main": "script.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
